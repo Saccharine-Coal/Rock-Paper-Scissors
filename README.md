@@ -8,3 +8,6 @@ Intro to C++ project.
 - Program has two different input validation functions:
   - It can differentiate between string input and int input from the input stream.
   - It can only accept values that correspond to an existing key.
+
+# Permissions
+This is a group project, so code in this repository is not free to use.
